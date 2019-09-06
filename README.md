@@ -16,4 +16,23 @@ The code provides modules for setting up and training a CNN network, and collect
 
 
 Should you find this helpful please cite our work:
+
+```
 Kulin, M., Kazaz, T., Moerman, I., & De Poorter, E. (2018). End-to-end learning from spectrum data: A deep learning approach for wireless signal identification in spectrum monitoring applications. IEEE Access, 6, 18484-18501.
+```
+
+Or
+
+
+```
+@article{kulin2018end,
+  title={End-to-end learning from spectrum data: A deep learning approach for wireless signal identification in spectrum monitoring applications},
+  author={Kulin, Merima and Kazaz, Tarik and Moerman, Ingrid and De Poorter, Eli},
+  journal={IEEE Access},
+  volume={6},
+  pages={18484--18501},
+  year={2018},
+  publisher={IEEE}
+}
+
+```
